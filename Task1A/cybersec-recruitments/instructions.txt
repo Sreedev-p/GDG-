@@ -1,0 +1,56 @@
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Welcome to the Task-Based Round of Cybersecurity — GDG Recruitments 2026
+
+This challenge follows a CTF-style (Capture The Flag) format. Your objective is to identify three separate flag fragments, each hidden across different tasks. Once you obtain all three, combine them to form the final flag.
+
+Each folder contains one independent sub-challenge, designed to test a specific skill set within cybersecurity.
+
+---------------------------------------------------------------------------------------------------------------
+
+- Goal
+
+You must extract one flag fragment from each part:
+
+i) gdg_part1 → part1
+ii) gdg_part2 → part2
+iii) gdg_part3 → part3
+
+Once solved, combine them as:
+
+- gdg{part1 ,part2 ,part3}
+
+---------------------------------------------------------------------------------------------------------------
+
+⚠ Rules & Guidelines
+
+i) Do not brute-force or tamper destructively with challenge files.
+ii) Automation/scripts are encouraged where beneficial.
+iii) The final combined flag will form a meaningful answer — not random text.
+
+You must submit a brief write-up describing:
+
+i) Tools used
+ii) Logic behind your approach
+iii) Screenshots/code snippets (highly recommended)
+
+---------------------------------------------------------------------------------------------------------------
+
+📝 Submission Format
+
+- Final Flag : gdg{part1_part2_part3}
+
+- A brief write-up explaining how you solved each part.
+
+---------------------------------------------------------------------------------------------------------------
+
+Your hunt begins now :)
+
+Explore the folders, observe carefully, and trust your methodology.
+Nothing here is accidental.
+
+Good luck, hacker.
+– Cybersec Team @ GDG-VIT
+
+---------------------------------------------------------------------------------------------------------------
+
